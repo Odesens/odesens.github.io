@@ -2,11 +2,7 @@
 	"x":29,
 	"y":420,
 	"width":250,
-<<<<<<< HEAD
-	"height":290,
-=======
-	"height":250,
->>>>>>> 9ed1df7d8f2f641d00e417d0c8c21ff14f34c013
+	"height":320,
 	"class":"link",
 	"data" : 
 		{
