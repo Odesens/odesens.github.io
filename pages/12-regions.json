@@ -1,0 +1,12 @@
+[{
+	"x":29,
+	"y":420,
+	"width":250,
+	"height":210,
+	"class":"link",
+	"data" : 
+		{
+			"url": "http://www.odesens.ch/"
+		}
+}
+]
